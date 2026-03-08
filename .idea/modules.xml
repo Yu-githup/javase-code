@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter-01-overview/chapter-01-overview.iml" filepath="$PROJECT_DIR$/chapter-01-overview/chapter-01-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-02-variable-operator/chapter-02-variable-operator.iml" filepath="$PROJECT_DIR$/chapter-02-variable-operator/chapter-02-variable-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/javase-code.iml" filepath="$PROJECT_DIR$/javase-code.iml" />
     </modules>
   </component>
