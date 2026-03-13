@@ -1,4 +1,4 @@
-package encapsulation;
+package object_character.encapsulation;
 
 /**
  * 面向对象三大特性：封装性

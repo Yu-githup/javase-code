@@ -1,4 +1,4 @@
-package encapsulation;
+package object_character.encapsulation;
 
 /**
  * 成员方法私有化
